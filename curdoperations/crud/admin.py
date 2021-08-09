@@ -1,6 +1,6 @@
 from django.contrib import admin
-from .models import LoginModel
+from .models import CurdOperations
 # Register your models here.
-admin.site.register(LoginModel)
+admin.site.register(CurdOperations)
 
 
